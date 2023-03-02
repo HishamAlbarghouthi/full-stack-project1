@@ -1,0 +1,257 @@
+*{
+    margin: 0;
+    height: 0;
+}
+header{
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url("blue_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header ul .icon1{
+    position: relative;
+    top: 22px;
+    height: 50px;
+
+}
+header .div1{
+    margin-top: -490px;
+}
+header a{
+    color: black;
+    margin-right: 25px;    
+        
+    text-decoration: none;
+}
+header a:hover{
+    border-bottom: 2px solid purple;
+    padding-bottom: 5px;
+    width: 50%;
+}
+header .btn1{
+    position: relative;
+    top: 30px;
+    right: 100px;
+    width: 90px;
+    height: 30px;
+    border-radius: 15px;
+    border: 1px solid white;
+    background-color: white;
+    font-size: 12px;
+}
+.sec1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+section .div2{
+    width: 600px;
+}
+section .div2 .h11{
+    font-size: 40px;
+    position: relative;
+    top: -300px;
+    left: 100px;
+}
+section .div2 .p1{
+    position: relative;
+    top: -250px;
+    left: 100px;
+    font-size: 20px;
+}
+section .spn1{
+    color: purple;
+}
+section .div3{
+    width: 100px;
+    position: relative;
+    z-index: 3;
+    top: -300px;
+}
+section .div3 .img1{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    right: 490px;
+    top: -150px;
+}
+section .div3 .img2{
+    position: relative;
+    top: -600px;
+    height: 300px;
+    right: 300px;
+}
+section .div3 .img3{
+    height: 150px;
+    width: 400px;
+    position: relative;
+    top: -650px;
+    right: 400px;
+}
+section .div3 .img4{
+    position: relative;
+    width: 1100px;
+    height: 200px;
+    top: -780px ;
+    right: 1300px;
+}
+.sec2 .img5{
+    position: relative;
+    top: -50px;
+    left: 100px;
+    width: 300px;
+    height: 200px;
+}
+.sec2 .img6{
+    width: 800px;
+    height: 400px;
+    position: relative;
+    top: 100px;
+
+}
+.sec2 .img7{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 500px;
+    top: -150px;
+}
+.sec3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.div4{
+    position: relative;
+    top: 500px;
+}
+.div4 img{
+    position: relative;
+    width: 500px;
+    height: 400px;
+}
+.div4 .p2{
+    position: relative;
+    top: -270px;
+    left: 100px;
+}
+.div4 #p2{
+    margin-bottom: 30px;
+    font-size: 26px;
+    color: white;
+}
+.div4 #h11{
+    font-size: 65px;
+    color: white;
+}
+.div5{
+    position: relative;
+    top: 550px;
+}
+.div5 img{
+    position: relative;
+    top: -70px;
+    right: 100px;
+    width: 300px;
+    height: 200px;
+}
+.div5 .h44{
+    position: relative;
+    top: -70px;
+    right: 100px;
+    text-align: center;
+}
+.div5 #h44{
+    font-size: 40px;
+    margin-bottom: 60px;
+}
+.sec4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sec4 .img8{
+    width: 150px;
+    height: 120px;
+    position: relative;
+    top: 1200px;
+}
+.sec4 .img9{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    top: 1050px;
+    right: 120px;
+}
+.sec4 .h444{
+    position: relative;
+    top: 1040px;
+}
+.sec4 #h444{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.sec4 #p4{
+    margin-right: 190px;
+    text-align: center;
+    font-size: 18px;
+}
+.sec4 .img10{
+    width: 150px;
+    height: 120px;
+    position: relative;
+    top: 1200px;
+    right: 170px;
+}
+.sec5{
+    width: 110%;
+    height: 500px;
+    position: relative;
+    top: 1400px;
+    background-image: url("Group 1131.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.sec5 .btn2{
+    height: 30px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+} 
+.sec5 .div6{
+    position: relative;
+    top: 350px;
+    left: 200px;
+}
+.div6 img{
+    position: relative;
+    top: 50px;
+    right: 150px;
+    width: 12px;
+    height: 12px;
+    margin-right: 10px;
+}
+.div6 .p5{
+    color: white;
+    position: relative;
+    top: 30px;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+.div6 .div66{
+    display: flex;
+}
+.div7 img{
+    position: relative;
+    left: 750px;
+    top: 100px;
+    width: 500px;
+    height: 400px;
+
+}
